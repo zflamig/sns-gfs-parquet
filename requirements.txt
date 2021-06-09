@@ -1,0 +1,6 @@
+cftime==1.4.1
+pyarrow==0.16.0
+numpy==1.20.3
+cfgrib
+eccodes
+xarray
